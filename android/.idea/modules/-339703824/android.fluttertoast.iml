@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":fluttertoast" external.linked.project.path="$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.example.FlutterToast" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":fluttertoast" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.0" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/fluttertoast/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cd5b1b58f5e5eb1fa24151a183cd9fd/jetified-flutter_embedding_debug-1.0.0-91c9fc8fe011352879e3bb6660966eafc0847233.jar:/home/topan007/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/2635280b31dfcd880e811fb95c08cb65/fragment-1.1.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/a3cb358101d71ef8270d600165f1faf5/jetified-activity-1.0.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/707d4e5abba7f2bfc4db4af09844c37d/viewpager-1.0.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/38c9704ac7364cf62d63ec398e6588d1/loader-1.0.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/ed3e51d07b0b25c3ea565ed9100cf6e9/customview-1.0.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/6e4f5bde3f0a09f2b9d1da6ca3671fb8/core-1.1.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/6bf5cbbba94a0cf16cda35d613ecdb2e/lifecycle-runtime-2.2.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/3ba5f2d6fb62f7517593ef3872f6db1b/jetified-savedstate-1.0.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/e8529d4d241f73cb72f22d660e7df33a/lifecycle-livedata-2.0.0-api.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/11beda187e4f5c31bb5ba484b436a8b8/lifecycle-livedata-core-2.0.0-api.jar:/home/topan007/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/7f6e2760c240c2195ee6f8ad73e7b4bc/core-runtime-2.0.0-api.jar:/home/topan007/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/bddf3f1c32cb57e291a4046db3cc69a9/versionedparcelable-1.1.0-api.jar:/home/topan007/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/38aff44a389645eee4220e1454af788a/lifecycle-viewmodel-2.1.0-api.jar:/home/topan007/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/0e1a0d0926c56fa7f2d7d1d64dd3c74b/jetified-kotlin-stdlib-jdk7-1.3.50.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/09fc056625cb85d624e55b2c56240ecc/jetified-kotlin-stdlib-1.3.50.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/b3cb5196763ea659aa52b47910dfd32b/jetified-kotlin-stdlib-common-1.3.50.jar:/home/topan007/.gradle/caches/transforms-2/files-2.1/9f4cf4ec932b65f0f477cdf2a5cac6c1/jetified-annotations-13.0.jar:/home/topan007/Android/Sdk/platforms/android-30/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="fluttertoast_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/src/main/res;file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/src/debug/res;file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/src/androidTest/res;file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/fluttertoast/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/fluttertoast/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android">
+      <sourceFolder url="file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/src/main/res" type="java-resource" />
+      <excludeFolder url="file://$USER_HOME$/InstalledApps/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/.gradle" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/ap_generated_sources/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/resValues/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/fluttertoast/generated/source/buildConfig/debug" />
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-91c9fc8fe011352879e3bb6660966eafc0847233" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+  </component>
+</module>
